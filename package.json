@@ -1,29 +1,16 @@
 {
-  "name": "node-js-sample",
-  "version": "0.2.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "threejs",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.18.2"
   },
-  "engines": {
-    "node": "17.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jhan2harvard/falsecolor/"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "author": "Ellie",
-  "contributors": [
-    "elliehan07@gmail.com"
-  ],
-  "license": "MIT"
+  "description": ""
 }
+
